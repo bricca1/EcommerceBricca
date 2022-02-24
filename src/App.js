@@ -1,10 +1,5 @@
 import NavBar from './components/NavBar.js'
 import './App.css';
-
-let styles = {
- margin: '10px'
-
-}
 function App() {
   return (
     <div>

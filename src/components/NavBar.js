@@ -1,4 +1,5 @@
 
+import CartWidget from './CartWidget.js'
 function NavBar(){
     return<>
         <div className="App-spacer">
@@ -16,6 +17,7 @@ function NavBar(){
             </a>
             <a  href="" style={{marginLeft: '20px'}}>Login
             </a>
+            <CartWidget/>
         </div>
 
     </>
