@@ -7,7 +7,7 @@ function NavBar(){
     return<>
         <div className="App-spacer">
             <h3>CELLFIX</h3>
-            <ButtonGroup variant="contained" aria-label="outlined primary button group">
+            <ButtonGroup variant="contained" aria-label="outlined primary button group" fullWidth>
                 <Button><a href="">
                     Productos 
                 </a> </Button>
