@@ -1,7 +1,7 @@
 function ItemListContainer(){
     return<>
             <div>
-               <p color="white"> HOLAAAaaaaaaaaaaaaaaaaaaaa</p>
+               <p color="white"> Proximamente Nuestros Productos</p>
             </div>
         </>
 }
