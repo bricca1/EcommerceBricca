@@ -1,8 +1,11 @@
+import ItemList from './ItemList.js'
+
 function ItemListContainer(){
-    return<>
+    return(<>
             <div>
-               <p color="white"> Proximamente Nuestros Productos</p>
+                <ItemList></ItemList>
             </div>
         </>
+    )
 }
 export default ItemListContainer;
